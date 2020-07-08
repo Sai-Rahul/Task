@@ -1,0 +1,9 @@
+com/resources/contact/repository/ContactRepository.class
+com/resources/contact/exception/ResourceNotFoundException.class
+com/resources/contact/model/Name.class
+com/resources/contact/model/Phone$PHONE_TYPES.class
+com/resources/contact/ContactApplication.class
+com/resources/contact/controller/ContactController.class
+com/resources/contact/model/Address.class
+com/resources/contact/model/Contact.class
+com/resources/contact/model/Phone.class
